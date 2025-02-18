@@ -1,4 +1,4 @@
-# Sprint-MVC-Backend
+# Spring-MVC-Backend
 인프런에서 [스프링 MVC 1편 - 백엔드 웹개발 핵심기술] 강의 듣고 혼자 진행하는 사이드 프로젝트 (총 72강, 15시간 22분)
 
 1. 강의 소개
